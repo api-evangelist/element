@@ -1,0 +1,77 @@
+# Element Protocol Docs
+
+## Element Protocol Docs Portal
+
+- [Element Protocol Documentation Portal](https://docs-delv.gitbook.io/element-protocol-developer-docs/readme.md): Welcome to the Element Protocol Documentation Portal
+- [Buying Fixed Rate Assets](https://docs-delv.gitbook.io/element-protocol-developer-docs/getting-started/buying-fixed-rates.md)
+- [Earning Variable Rates](https://docs-delv.gitbook.io/element-protocol-developer-docs/getting-started/earning-variable-rates.md)
+- [Providing Liquidity](https://docs-delv.gitbook.io/element-protocol-developer-docs/getting-started/providing-liquidity.md)
+- [FAQ](https://docs-delv.gitbook.io/element-protocol-developer-docs/getting-started/faq.md): The go-to source for all frequently asked questions about Element Finance!
+- [Glossary](https://docs-delv.gitbook.io/element-protocol-developer-docs/getting-started/glossary.md): A list of words and terms relating to the Element Protocol
+- [Concepts Overview](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/concepts-overview.md): The Core Concepts of the Element Protocol
+- [Principal Tokens](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/principal-tokens.md)
+- [Use Cases](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/principal-tokens/use-cases.md): Use cases for Element's Principal Tokens (PTs)
+- [Yield Tokens](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/yield-tokens.md)
+- [Use Cases](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/yield-tokens/use-cases.md): Use cases for Element's Yield Tokens (YTs)
+- [Market Forces](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/market-forces.md)
+- [Providing Liquidity](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/providing-liquidity.md)
+- [Element Protocol Smart Contracts](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts.md): The Element Protocol Smart Contract Documentation
+- [Core Protocol Contracts](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/core-protocol-contracts.md)
+- [Wrapped Position](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/core-protocol-contracts/wrapped-position.md)
+- [Tranche](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/core-protocol-contracts/tranche.md)
+- [Tranche Factory](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/core-protocol-contracts/tranche-factory.md)
+- [Interest Token](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/core-protocol-contracts/interest-token.md)
+- [User Proxy](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/core-protocol-contracts/user-proxy.md)
+- [Integration Contracts](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/integration-contracts.md)
+- [Yearn Vault Asset Proxy](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/integration-contracts/yearn-vault-asset-proxy.md)
+- [Custom Balancer Curve](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/custom-balancer-curve.md)
+- [Convergent Curve Pool](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/custom-balancer-curve/convergent-curve-pool.md)
+- [Convergent Curve Pool Factory](https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts/custom-balancer-curve/convergent-curve-pool-factory.md)
+- [Public Release Changelog](https://docs-delv.gitbook.io/element-protocol-developer-docs/developers/public-releases.md): The Public Releases Page for the Element Protocol
+- [Security](https://docs-delv.gitbook.io/element-protocol-developer-docs/developers/security.md): The Security of the Element Protocol is our highest priority.
+- [Oracles](https://docs-delv.gitbook.io/element-protocol-developer-docs/developers/security/oracles.md)
+- [Council Protocol Overview](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-overview.md)
+- [Voting Vaults and Delegation](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-overview/voting-vaults.md)
+- [Governance Steering Council (GSC)](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-overview/governance-steering-council.md)
+- [Council Protocol Interface](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-interface.md)
+- [Overview](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-interface/overview.md)
+- [Proposals](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-interface/proposals.md)
+- [Guide: Voting on a Proposal](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-interface/proposals/guide-voting.md)
+- [Delegate](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-interface/delegate.md)
+- [Guide: Delegating Voting Power](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-interface/delegate/guide-delegating.md)
+- [DAO (Social) Proposal Template](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-interface/delegate/guide-delegating/dao-social-proposal-template.md)
+- [Protocol (Executable) Proposal Template](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-interface/delegate/guide-delegating/protocol-executable-proposal-template.md)
+- [Element Governance Proposal Framework](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework.md)
+- [Guidelines of the Element Governance Proposal Framework (EGPF)](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/guidelines-of-the-element-governance-proposal-framework-egpf.md)
+- [Venues For Participating in Governance & Discussion](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/venues-for-participating-in-governance-and-discussion.md): These are the current venues that exist today for interacting with Element DAO governance and will be updated over time as more venues become available.
+- [What Governance Controls Today](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/what-governance-controls-today.md)
+- [Current Protocol Parameters](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/what-governance-controls-today/current-protocol-parameters.md)
+- [Current Governance Parameters](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/what-governance-controls-today/current-governance-parameters.md)
+- [Current Governance Roles](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/current-governance-roles.md)
+- [The Governance Process](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/the-governance-process.md)
+- [Proposals & Proposal Types](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/the-governance-process/proposal-types.md)
+- [The Proposal Process Overview](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/the-governance-process/the-proposal-process-overview.md): As mentioned in the Proposal Types section, there are two proposal processes for the Element Governance Framework: 1-Protocol (Executable) Proposals and 2-DAO (Social) Proposals.
+- [The Proposal Lifecycles](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/the-governance-process/the-proposal-lifecycles.md)
+- [DAO (Social) Proposal Lifecycle Breakdown & Criteria](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/the-governance-process/the-proposal-lifecycles/dao-social-proposal-lifecycle-breakdown-and-criteria.md)
+- [Protocol (Executable) Proposal Lifecycle Breakdown & Criteria](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/the-governance-process/the-proposal-lifecycles/protocol-executable-proposal-lifecycle-breakdown-and-criteria.md)
+- [Off-chain Voting Information (Snapshot)](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/the-governance-process/off-chain-voting-information-snapshot.md)
+- [On-chain Voting Information](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/element-governance-proposal-framework/the-governance-process/on-chain-voting-information.md): After a proposal has been created on-chain it is subject to a Timelock Duration, Voting Periods, and Quorums. The initial governance (GSC, voting, delegation, etc) parameters can be found below.
+- [Council Protocol Smart Contracts](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts.md)
+- [Core Voting](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/core-voting.md)
+- [Voting Vaults](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/voting-vaults.md)
+- [Locking Vault](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/voting-vaults/locking-vault.md)
+- [Vesting Vault](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/voting-vaults/vesting-vault.md)
+- [Governance Steering Council (GSC) Vault](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/voting-vaults/governance-steering-council-gsc-vault.md)
+- [Timelock](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/timelock.md)
+- [Treasury](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/treasury.md)
+- [Spender](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/spender.md)
+- [Optimistic Grants](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/optimistic-grants.md)
+- [Optimistic Rewards](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/optimistic-rewards.md)
+- [Simple Proxy](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/council-protocol-smart-contracts/simple-proxy.md)
+- [Airdrop](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/airdrop.md)
+- [Storage](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/airdrop/storage.md)
+- [Guide: Discord ZK Claim Flow](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/airdrop/discord.md)
+- [History](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/airdrop/history.md)
+- [Glossary (Governance)](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/glossary-governance.md): Definitions for commonly-used terms accross Element's Council governance
+- [Deployed Contract Addresses](https://docs-delv.gitbook.io/element-protocol-developer-docs/governance-council/deployed-contracts.md)
+- [Guide: Mint Your ELF NFT](https://docs-delv.gitbook.io/element-protocol-developer-docs/elfiverse/guide-mint-your-elf-nft.md)

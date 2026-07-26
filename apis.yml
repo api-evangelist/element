@@ -1,7 +1,28 @@
 aid: element
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/element.png
 name: Element
-description: Element is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Element (Element Finance) is an Andreessen Horowitz-backed decentralized finance
+  protocol for fixed and variable yield on crypto assets. The protocol splits an
+  interest-bearing position into tradable Principal Tokens (PTs) and Yield Tokens
+  (YTs) so users can lock in a fixed rate by buying discounted principal, or take
+  variable-rate exposure, redeeming at face value on maturity via on-chain AMMs. It
+  also ships the Council governance framework (voting vaults, delegation, the
+  Governance Steering Council) that powers the Element DAO. Element is a
+  smart-contract protocol on Ethereum rather than a hosted REST API: developers
+  integrate through the on-chain contracts, the elf-sdk TypeScript library, and the
+  published contract reference. The team has since rebranded to DELV (delvtech).
 url: https://raw.githubusercontent.com/api-evangelist/element/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +30,63 @@ x-backed-by:
 - a16z
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-successor: DELV (delvtech)
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- DeFi
+- Decentralized Finance
+- Fixed Income
+- Yield
+- Ethereum
+- Smart Contracts
+- Cryptocurrency
+- Governance
+- DAO
 apis: []
+common:
+- type: DomainSecurity
+  url: security/element-domain-security.yml
+- type: Website
+  url: https://element.fi
+- type: DeveloperPortal
+  url: https://docs.element.fi
+- type: Documentation
+  url: https://docs.element.fi
+- type: APIReference
+  name: Element Protocol Smart Contracts
+  url: https://docs-delv.gitbook.io/element-protocol-developer-docs/element/element-smart-contracts.md
+- type: GettingStarted
+  url: https://docs-delv.gitbook.io/element-protocol-developer-docs/getting-started/buying-fixed-rates.md
+- type: GitHubOrganization
+  url: https://github.com/element-fi
+- type: SourceCode
+  name: elf-contracts (core protocol)
+  url: https://github.com/delvtech/elf-contracts
+- type: ChangeLog
+  name: Public Releases
+  url: https://docs-delv.gitbook.io/element-protocol-developer-docs/developers/public-releases.md
+- type: Security
+  name: Element Protocol Security & Audits
+  url: https://docs-delv.gitbook.io/element-protocol-developer-docs/developers/security.md
+- type: Packages
+  url: packages/element-packages.yml
+- type: SDKs
+  name: elf-sdk (TypeScript)
+  url: packages/element-packages.yml
+- type: LLMsTxt
+  url: llms/element-llms.txt
+- type: WellKnown
+  url: well-known/element-well-known.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

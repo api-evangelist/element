@@ -1,0 +1,18 @@
+generated: '2026-07-19'
+method: searched
+source: https://github.com/delvtech
+notes: >-
+  Element is a smart-contract protocol; its client tooling is distributed from
+  GitHub rather than a package registry. elf-sdk is the official TypeScript SDK
+  for interacting with the Element core contracts (installed from git, now
+  archived under the delvtech org after the DELV rebrand). elf-contracts is the
+  Solidity protocol source, not a client library.
+packages:
+- language: typescript
+  registry: github
+  name: elf-sdk
+  url: https://github.com/delvtech/elf-sdk
+  install: npm install git+https://github.com/delvtech/elf-sdk.git
+  official: true
+  archived: true
+  description: SDK for interacting with Element Core Contracts.
